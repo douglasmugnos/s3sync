@@ -1,0 +1,15 @@
+201808241756,rh-server,INFO,"Bucker exist"
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/TERRAFORM to bucket backup-test-mugit"
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/TERRAFORM synced to bucket backup-test-mugit "
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/DR_SCRIPTS to bucket backup-test-mugit"
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/DR_SCRIPTS synced to bucket backup-test-mugit "
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/ESTUDOS to bucket backup-test-mugit"
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/ESTUDOS synced to bucket backup-test-mugit "
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/FSTABCHECK to bucket backup-test-mugit"
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/FSTABCHECK synced to bucket backup-test-mugit "
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/HCvalidator to bucket backup-test-mugit"
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/HCvalidator synced to bucket backup-test-mugit "
+201808241756,rh-server,INFO,"Starting sync from /home/douglas/Desktop/shellscript/storage_report.sh to bucket backup-test-mugit"
+upload: ../storage_report.sh/storage_report.ksh to s3://backup-test-mugit/rh-server//home/douglas/Desktop/shellscript/storage_report.sh/storage_report.ksh
+upload: ../storage_report.sh/storage_collector_client.ksh to s3://backup-test-mugit/rh-server//home/douglas/Desktop/shellscript/storage_report.sh/storage_collector_client.ksh
+201808241756,rh-server,INFO,"Files in /home/douglas/Desktop/shellscript/storage_report.sh synced to bucket backup-test-mugit "
