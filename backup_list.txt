@@ -1,0 +1,6 @@
+/home/douglas/Desktop/shellscript/TERRAFORM
+/home/douglas/Desktop/shellscript/DR_SCRIPTS
+/home/douglas/Desktop/shellscript/ESTUDOS
+/home/douglas/Desktop/shellscript/FSTABCHECK
+/home/douglas/Desktop/shellscript/HCvalidator
+/home/douglas/Desktop/shellscript/storage_report.sh
